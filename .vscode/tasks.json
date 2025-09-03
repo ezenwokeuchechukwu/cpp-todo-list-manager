@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build todo",
+      "type": "shell",
+      "command": "C:\\msys64\\mingw64\\bin\\g++.exe",
+      "args": [
+        "todo.cpp",
+        "-g",
+        "-o",
+        "build\\Debug\\outDebug.exe"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": [
+        "$gcc"
+      ]
+    }
+  ]
+}
