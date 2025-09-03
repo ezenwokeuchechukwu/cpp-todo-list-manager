@@ -4,7 +4,7 @@ This project is a simple To-Do List Manager application developed in C++ to deep
 
 The purpose of writing this software is to practice and demonstrate fundamental C++ programming skills while building a useful utility that could be expanded in the future.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/wS7IEi51Ayk)
 
 # Development Environment
 

@@ -56,7 +56,6 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
-
   "code-runner.executorMap": {
     "cpp": "C:\\msys64\\mingw64\\bin\\g++.exe $fullFileName -o $fileNameWithoutExt.exe && .\\$fileNameWithoutExt.exe"
   },
